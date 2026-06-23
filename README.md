@@ -1,12 +1,13 @@
-# KiCad Projects
-
-趣味の電子工作で作った基板の KiCad データ用リポジトリです。
+# MyCircuits
+趣味の電子工作で作成した基板の KiCad リポジトリです。
 
 ---
 
 ## 1. Nixie Tube Related
 
-これらを利用した自作ニキシー管時計をブログで紹介しています ->
+これらを利用した自作ニキシー管時計をブログで紹介しています
+
+ -> [**https://unsignedk.com/blog/nixie-clock-in-18**](https://unsignedk.com/blog/nixie-clock-in-18)
 
 #### 1) IN-18 MountingBoard
 ロマンある最大のニキシー管 **IN-18** のマウント基板です。
